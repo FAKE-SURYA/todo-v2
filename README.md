@@ -6,10 +6,6 @@ Store your tasks, mark them done, delete 'em — all saved in **localStorage**.
 Live Demo 🚀 → [todo-v2.vercel.app](https://todo-v2.vercel.app)
 
 ---
-## Screenshot
-![Preview](https://github.com/FAKE-SURYA/todo-v2/raw/main/public/preview.png)
-
----
 
 ## 💡 Features
 
