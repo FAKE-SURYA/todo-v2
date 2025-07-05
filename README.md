@@ -3,7 +3,7 @@
 A sleek, blazing-fast ToDo app built with **React** and **Vite**.  
 Store your tasks, mark them done, delete 'em — all saved in **localStorage**.
 
-Live Demo 🚀 → [todo-v2.vercel.app](https://todo-v2.vercel.app)
+Live Demo 🚀 → [todo-v2.vercel.app](https://todo-v2-nine.vercel.app/)
 
 ---
 
