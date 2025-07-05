@@ -1,12 +1,37 @@
-# React + Vite
+# 📝 ToDoV2 – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, blazing-fast ToDo app built with **React** and **Vite**.  
+Store your tasks, mark them done, delete 'em — all saved in **localStorage**.
 
-Currently, two official plugins are available:
+Live Demo 🚀 → [todo-v2.vercel.app](https://todo-v2.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview](https://github.com/FAKE-SURYA/todo-v2/raw/main/public/preview.png)
+
+---
+
+## 💡 Features
+
+- ✅ Add tasks instantly
+- ✅ Toggle tasks as done/undone
+- ✅ Delete tasks
+- 💾 Saved locally using `localStorage`
+- ⚡ Built with Vite 
+
+-
+
+##  Tech Stack
+
+- React – Functional Components + Hooks  
+- Vite – Superfast dev server & build tool  
+- HTML, CSS, JavaScript
+- localStorage – To persist data  
+- Deployed on Vercel
+
+---
+
+
+
