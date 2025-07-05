@@ -1,0 +1,41 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.input-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+button {
+  background-color: #00c9a7;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.task-list li {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5rem 0;
+}
