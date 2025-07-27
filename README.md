@@ -20,7 +20,7 @@ Live Demo 🚀 → [todo-v2.vercel.app](https://todo-v2-nine.vercel.app/)
 ##  Tech Stack
 
 - React – Functional Components + Hooks  
-- Vite – Superfast dev server & build tool  
+- Vite - Superfast dev server & build tool  
 - HTML, CSS, JavaScript
 - localStorage – To persist data  
 - Deployed on Vercel
